@@ -3,7 +3,7 @@ Sending the IMU data by CAN
 
 This code is set up to work with an Arduino. 
 
-Currnetly this code will retrive the data from the 6 DOF IMU built into the Arduino and send it by CAN via a CAN
+Currently this code will retrive the data from the 6 DOF IMU built into the Arduino and send it by CAN via a CAN
 BUS Shield. 
 
 float2byte is the code to retrive the IMU data and is set up on one arduino. 
